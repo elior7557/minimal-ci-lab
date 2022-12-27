@@ -10,11 +10,12 @@ Prerequisites
 ## How to Use
 
 
-    Clone this repository: 
+Clone this repository: 
 ``` 
-    git clone https://github.com/elior7557/minimal-lab-setup.git
+    git clone https://github.com/elior7557/minimal-ci-lab.git
 ```
-    Go to the directory where the repository was cloned:
+
+Go to the directory where the repository was cloned:
 ```
      cd minimal-lab-setup
 ```
