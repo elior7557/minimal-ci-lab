@@ -1,6 +1,6 @@
 # Minimal Lab Setup
 
-This repository contains a Docker Compose file that creates a GitLab server and Jenkins container for CI/CD purposes.
+This repository contains a Docker Compose file that creates a GitLab server,Jenkins container for CI/CD purposes and Artifactory.
 Prerequisites
 
 ```
