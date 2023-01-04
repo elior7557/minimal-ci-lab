@@ -31,10 +31,10 @@ Go to the directory where the repository was cloned:
 
 
 Notes
+The GitLab container will store its data in a volume at ./gitlab-data. This means that if you remove the container, your data will not be lost.
+The Jenkins container will store its data in a volume at ./jenkins-data. This means that if you remove the container, your data will not be lost.
 
-    The GitLab container will store its data in a volume at ./gitlab-data. This means that if you remove the container, your data will not be lost.
-    The Jenkins container will store its data in a volume at ./jenkins-data. This means that if you remove the container, your data will not be lost.
-    If you want to stop and remove the containers, you can use the following command: 
+If you want to stop and remove the containers, you can use the following command: 
 
     ```
     docker-compose down
